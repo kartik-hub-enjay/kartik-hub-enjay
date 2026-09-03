@@ -9,7 +9,7 @@
     <strong>Software Developer • Full-Stack Engineer • Generative AI & Systems Enthusiast</strong>
   </p>
 
-  <!-- Badges / Pill Bar -->
+  <!-- Badges / Social Pill Bar -->
   <p align="center">
     <a href="https://linkedin.com/in/kartik-pareek">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,31 +26,33 @@
     <img src="https://komarev.com/ghpvc/?username=kartik-hub-enjay&label=Profile%20Views&color=00f5d4&style=for-the-badge" alt="Profile Views" />
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=120&section=header" width="100%" />
-
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Kartik Pareek
-role: Software Developer / Full-Stack Engineer
-location: Vadodara, Gujarat, India 📍
-education: B.Tech in Computer Science & Engineering (Class of 2028), Parul University 🎓
-current_work: Software Developer Intern at Tinkering Hub (EV Fleet Platform) ⚡
-focus_areas:
-  - High-concurrency Real-Time Systems (WebSockets, WebRTC)
-  - Production-grade Generative AI & LLM Systems (LangChain, RAG, LLMOps)
-  - Resilient Financial & Recovery Systems (Hexagonal Architecture)
-passions: ["Distributed Systems", "Clean Architecture", "Interactive 3D Frontends (Three.js/GSAP)"]
-```
-
-- 🔭 **Currently Building:** High-throughput EV tracking & booking backend architectures and AI-governed transaction recovery pipelines.
-- 💡 **Engineering Philosophy:** Building systems with deterministic policy guardrails, idempotency, and sub-100ms real-time responsiveness.
-- 💬 **Ask Me About:** MERN stack, PostgreSQL, Next.js, WebSockets, RAG architectures, and scalable REST/GraphQL APIs.
-- ⚡ **Fun Fact:** When I'm not writing code, I'm diving into 3D web animations with Three.js or exploring the latest research in agentic workflows.
+<table>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px;" alt="Coding Animation" />
+      <br/><br/>
+      <sub>🚀 <em>Transforming ideas into resilient software</em></sub>
+    </td>
+    <td width="58%" valign="top">
+      <h3>Hey, I'm Kartik! 👋</h3>
+      <p>I'm a <strong>Full-Stack Developer</strong> and Computer Science undergraduate with a strong focus on high-throughput backend systems, real-time architectures, and LLM orchestration.</p>
+      <ul>
+        <li>🎓 <strong>Education:</strong> B.Tech in CSE (Class of 2028) @ <strong>Parul University</strong>, Vadodara, India 📍</li>
+        <li>⚡ <strong>Experience:</strong> Software Developer Intern @ <strong>Tinkering Hub</strong> (EV fleet tracking, REST APIs, PostgreSQL, MERN admin dashboard)</li>
+        <li>🧠 <strong>Focus Areas:</strong> Scalable MERN & Next.js, Real-Time WebSockets/WebRTC, LangChain & RAG pipelines, and Hexagonal Architecture</li>
+        <li>💡 <strong>Engineering Motto:</strong> <em>"Deterministic policy guardrails, idempotency, and sub-100ms real-time responsiveness."</em></li>
+        <li>💬 <strong>Ask Me About:</strong> MERN, Next.js, PostgreSQL, WebSockets, RAG, and Vector DBs</li>
+        <li>🎯 <strong>Current Quest:</strong> Exploring Agentic AI workflows & crafting 3D web experiences with Three.js/GSAP</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -134,23 +136,26 @@ passions: ["Distributed Systems", "Clean Architecture", "Interactive 3D Frontend
 
 ### 🚀 Featured Engineering Projects
 
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  ⚡ RecoverOS — AI-Governed Revenue Recovery Orchestration System                      │
-│  Stack: TypeScript • Next.js • PostgreSQL • Drizzle ORM • Zod • Gemini API             │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│  • Hexagonal-architecture recovery engine diagnosing failed recurring payments.        │
-│  • Grounded in RBI's Digital Payments E-mandate Framework (24-hr pre-debit notice).    │
-│  • Confidence-gated LLM decision pipeline with deterministic policy validation layer.  │
-│  • Built for financial reliability: Idempotent side effects & 119+ passing test suite. │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⚡ RecoverOS — AI-Governed Revenue Recovery Orchestration System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+        <img src="https://img.shields.io/badge/Gemini%20API-8E75C2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tests-119%2B%20Passing-10b981?style=flat-square" />
+      </p>
+      <ul>
+        <li>Built a <strong>hexagonal-architecture recovery engine</strong> diagnosing failed recurring payments by root cause, replacing naive blind retry loops.</li>
+        <li>Grounded retry and notification timing in <strong>RBI's Digital Payments E-mandate Framework</strong> (24-hr pre-debit notice, ₹15,000 threshold) as deterministic policy rules.</li>
+        <li>Designed a <strong>confidence-gated decision pipeline</strong>: LLM proposes strategies from a validated action set, passing deterministic policy checks before auto-execution.</li>
+        <li>Engineered for financial reliability with idempotent side effects, circuit breakers, and an append-only audit trail backed by <strong>119+ passing tests</strong>.</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🗣️ Echooo</h3>
@@ -163,10 +168,10 @@ passions: ["Distributed Systems", "Clean Architecture", "Interactive 3D Frontend
         <img src="https://img.shields.io/badge/Stream%20SDK-005FFF?style=flat-square&logo=stream&logoColor=white" />
       </p>
       <ul>
-        <li>Full-stack MERN application connecting learners worldwide for live 1-on-1 language exchange.</li>
+        <li>Full-stack MERN web application connecting learners worldwide for live 1-on-1 language exchange.</li>
         <li>Live peer-to-peer <strong>WebRTC video calling</strong> and low-latency messaging.</li>
-        <li>Scalable backend handling concurrent socket connections with dynamic profile-matching logic.</li>
-        <li>Deployed live on Render with automated environment configuration and uptime monitoring.</li>
+        <li>Scalable backend handling concurrent socket connections with dynamic profile matching.</li>
+        <li>Production deployed on Render with automated environment configuration and uptime monitoring.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -209,13 +214,12 @@ passions: ["Distributed Systems", "Clean Architecture", "Interactive 3D Frontend
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik-hub-enjay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=a855f7&text_color=94a3b8" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-hub-enjay&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=a855f7&currStreakNum=00f5d4&sideNums=a855f7&currStreakLabel=00f5d4&sideLabels=94a3b8&dates=64748b" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kartik-hub-enjay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=a855f7&text_color=94a3b8" height="175" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kartik-hub-enjay&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=a855f7&currStreakNum=00f5d4&sideNums=a855f7&currStreakLabel=00f5d4&sideLabels=94a3b8&dates=64748b" height="175" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-hub-enjay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=94a3b8" height="175" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kartik-hub-enjay&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" height="175" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kartik-hub-enjay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=94a3b8" height="175" alt="Top Languages" />
 </div>
 
 <br/>
@@ -252,8 +256,6 @@ passions: ["Distributed Systems", "Clean Architecture", "Interactive 3D Frontend
   </a>
 
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=100&section=footer" width="100%" />
-
   <sub>⭐️ <em>Designed with precision & passion by Kartik Pareek</em> ⭐️</sub>
 
 </div>
