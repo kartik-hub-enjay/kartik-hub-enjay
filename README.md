@@ -11,6 +11,9 @@
 
   <!-- Badges / Social Pill Bar -->
   <p align="center">
+    <a href="https://old-waterfall-934.linkyhost.com" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+    </a>
     <a href="https://linkedin.com/in/kartik-pareek">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -45,6 +48,7 @@
       <p>I'm a <strong>Full-Stack Developer</strong> with a deep passion for building high-throughput backend systems, real-time architectures, and LLM-powered applications.</p>
       <ul>
         <li>📍 <strong>Based in:</strong> Vadodara, Gujarat, India</li>
+        <li>📄 <strong>Resume:</strong> <a href="https://old-waterfall-934.linkyhost.com" target="_blank"><strong>View Online Resume ↗</strong></a></li>
         <li>🧠 <strong>Focus Areas:</strong> Scalable MERN & Next.js, Real-Time WebSockets/WebRTC, LangChain & RAG pipelines, and Hexagonal Architecture</li>
         <li>💡 <strong>Engineering Motto:</strong> <em>"Deterministic policy guardrails, idempotency, and sub-100ms real-time responsiveness."</em></li>
         <li>💬 <strong>Ask Me About:</strong> MERN, Next.js, PostgreSQL, WebSockets, RAG, and Vector DBs</li>
@@ -146,6 +150,10 @@
 
 <div align="center">
 
+  <a href="https://old-waterfall-934.linkyhost.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/kartik-pareek">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
