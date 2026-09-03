@@ -23,8 +23,9 @@
     <a href="mailto:kbnpareek123@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=kartik-hub-enjay&label=Profile%20Views&color=00f5d4&style=for-the-badge" alt="Profile Views" />
   </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=120&section=header" width="100%" />
 
 </div>
 
@@ -34,17 +35,16 @@
 
 <table>
   <tr>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px;" alt="Coding Animation" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.tenor.com/kyJFTroNngQAAAAC/coding.gif" width="100%" style="border-radius: 12px;" alt="Coding Sticker" />
       <br/><br/>
       <sub>🚀 <em>Transforming ideas into resilient software</em></sub>
     </td>
-    <td width="58%" valign="top">
+    <td width="62%" valign="top">
       <h3>Hey, I'm Kartik! 👋</h3>
-      <p>I'm a <strong>Full-Stack Developer</strong> and Computer Science undergraduate with a strong focus on high-throughput backend systems, real-time architectures, and LLM orchestration.</p>
+      <p>I'm a <strong>Full-Stack Developer</strong> with a deep passion for building high-throughput backend systems, real-time architectures, and LLM-powered applications.</p>
       <ul>
-        <li>🎓 <strong>Education:</strong> B.Tech in CSE (Class of 2028) @ <strong>Parul University</strong>, Vadodara, India 📍</li>
-        <li>⚡ <strong>Experience:</strong> Software Developer Intern @ <strong>Tinkering Hub</strong> (EV fleet tracking, REST APIs, PostgreSQL, MERN admin dashboard)</li>
+        <li>📍 <strong>Based in:</strong> Vadodara, Gujarat, India</li>
         <li>🧠 <strong>Focus Areas:</strong> Scalable MERN & Next.js, Real-Time WebSockets/WebRTC, LangChain & RAG pipelines, and Hexagonal Architecture</li>
         <li>💡 <strong>Engineering Motto:</strong> <em>"Deterministic policy guardrails, idempotency, and sub-100ms real-time responsiveness."</em></li>
         <li>💬 <strong>Ask Me About:</strong> MERN, Next.js, PostgreSQL, WebSockets, RAG, and Vector DBs</li>
@@ -134,83 +134,6 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
-
-<table>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>⚡ RecoverOS — AI-Governed Revenue Recovery Orchestration System</h3>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-        <img src="https://img.shields.io/badge/Gemini%20API-8E75C2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tests-119%2B%20Passing-10b981?style=flat-square" />
-      </p>
-      <ul>
-        <li>Built a <strong>hexagonal-architecture recovery engine</strong> diagnosing failed recurring payments by root cause, replacing naive blind retry loops.</li>
-        <li>Grounded retry and notification timing in <strong>RBI's Digital Payments E-mandate Framework</strong> (24-hr pre-debit notice, ₹15,000 threshold) as deterministic policy rules.</li>
-        <li>Designed a <strong>confidence-gated decision pipeline</strong>: LLM proposes strategies from a validated action set, passing deterministic policy checks before auto-execution.</li>
-        <li>Engineered for financial reliability with idempotent side effects, circuit breakers, and an append-only audit trail backed by <strong>119+ passing tests</strong>.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗣️ Echooo</h3>
-      <p><em>Real-Time Global Language Exchange Platform</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stream%20SDK-005FFF?style=flat-square&logo=stream&logoColor=white" />
-      </p>
-      <ul>
-        <li>Full-stack MERN web application connecting learners worldwide for live 1-on-1 language exchange.</li>
-        <li>Live peer-to-peer <strong>WebRTC video calling</strong> and low-latency messaging.</li>
-        <li>Scalable backend handling concurrent socket connections with dynamic profile matching.</li>
-        <li>Production deployed on Render with automated environment configuration and uptime monitoring.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚗 UberClone</h3>
-      <p><em>Real-Time Ride Booking & Tracking Platform</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-      </p>
-      <ul>
-        <li>Full-cycle ride booking platform with dedicated Rider and Captain workflows.</li>
-        <li>Real-time ride lifecycle events (<code>request → accept → start → end</code>) over WebSockets.</li>
-        <li>Interactive OpenStreetMap live tracking with route calculation and fare estimation logic.</li>
-        <li>Role-protected JWT authentication with reliable fallback mechanisms deployed on Vercel & Render.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💼 Experience & Education
-
-```text
-💼 Software Developer Intern — Tinkering Hub, Parul University (Jul 2026 – Sep 2026)
-   └── EV Tracking & Booking Application
-       ├── Owned backend architecture end-to-end, designing PostgreSQL schema & REST APIs in Express.
-       ├── Engineered real-time MERN admin dashboard for live fleet availability, bookings, and telematics.
-       └── Configured CI/CD deployment pipelines balancing high-frequency tracking consistency & latency.
-
-🎓 B.Tech in Computer Science & Engineering — Parul University, Vadodara, India
-   └── Class of 2028 | Deep focus on Systems Engineering, Distributed Architectures & AI Systems.
-```
-
----
-
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
@@ -256,6 +179,8 @@
   </a>
 
   <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=100&section=footer" width="100%" />
+
   <sub>⭐️ <em>Designed with precision & passion by Kartik Pareek</em> ⭐️</sub>
 
 </div>
