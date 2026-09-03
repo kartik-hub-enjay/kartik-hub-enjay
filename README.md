@@ -134,20 +134,8 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kartik-hub-enjay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=a855f7&text_color=94a3b8" height="175" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=kartik-hub-enjay&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=a855f7&currStreakNum=00f5d4&sideNums=a855f7&currStreakLabel=00f5d4&sideLabels=94a3b8&dates=64748b" height="175" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kartik-hub-enjay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=94a3b8" height="175" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- Contribution Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/kartik-hub-enjay/kartik-hub-enjay/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
