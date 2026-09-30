@@ -14,7 +14,7 @@
     <a href="https://old-waterfall-934.linkyhost.com" target="_blank">
       <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
     </a>
-    <a href="https://linkedin.com/in/kartik-pareek">
+    <a href="https://linkedin.com/in/kartik-pareek1">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://x.com/Kartik_Dev67">
